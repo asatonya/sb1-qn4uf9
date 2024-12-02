@@ -4,7 +4,7 @@ import { TermsSection } from './TermsSection';
 export function TermsContent() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <TermsSection title="1. Acceptance of Terms">
+      <TermsSection title="1. 規約への同意">
         <p>By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.</p>
       </TermsSection>
 
