@@ -5,7 +5,7 @@ export function TermsContent() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <TermsSection title="1. 規約への同意">
-        <p>By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.</p>
+        <p>この Web サイトにアクセスして使用すると、この契約の条項および条項に拘束されることに同意したものとみなされます。</p>
       </TermsSection>
 
       <TermsSection title="2. Use License">
